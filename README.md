@@ -1,23 +1,18 @@
 # Atlas
 ````
-           _.-,=_"""--,_
-        .-" =/7"   _  .3#"=.
-      ,#7  " "  ,//)#d#######=.
-    ,/ "      # ,i-/###########=
-   /         _)#sm###=#=# #######\
-  /         (#/"_`;\//#=#\-#######\
- /         ,d####-_.._.)##P########\
-,        ,"############\\##bi- `\| Y.
-|       .d##############b\##P'   V  |
-|\      '#################!",       |
-|C.       \###=############7        |
-'###.           )#########/         '
-  \B             /#######7 /      /
-   \             \######" /"     /
-    `.            \###7'       ,'
-      "-_          `"'      ,-'
-         "-._           _.-"
-             """"---""""
+                         ++                                          h+                  
+                        oMM:   ``                                   yMMs`                
+      :hNNd`           :MMMN.  `.`                                .hMMMMm.               
+      sMMMM`           :MMMM/ yNMs                        `----   :MMMMMM.               
+      sMMMM`           :MMMM/ dMMh                       +NMMMM`  :MMMMMM.               
+     `MMMMM`           :MMMM/ dMMh                       hMMMMM`  :MMMMMM.               
+   oosMMMMM`           :MMMM/ dMMh                   `   hMMMMM:: :MMMMMM.               
+   MMMMMMMM.``         :MMMM/ dMMh :ms..     -hy-  +dMh/`hMMMMMMMyhMMMMMM.               
+   MMMMMMMMMMMo      ..:MMMM/ dMMh.MMMmMh :d/NMMd  mMMMMMMMMMMMMMMMMMMMMM.               
+yhhMMMMMMMMMMMo     mMMmMMMM/ dMMh NMMMMMNMMMMMMd`oNMMMMMMMMMMMMMMMMMMMMM.               
+MMMMMMMMMMMMMMo :oNyNMMMMMMMhsmMMh NMMMMMMMMMMMMd+MMMMMMMMMMMMMMMMMMMMMMM.               
+MMMMmdMMMMMMMMMMMMMMMMMh-NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmNNNNNmhyo/:....
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 ```
 Exploration and Discover
 
